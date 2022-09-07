@@ -1,4 +1,25 @@
-# Getting Started with Create React App
+# PRUEBA-IT-GLOBERS
+
+React
+v18.2.0
+
+react-router-dom 
+v5.2.0
+
+node-sass
+v7.0.1
+
+formspree/react 
+v2.4.0
+
+fortawesome/fontawesome-svg-core  v6.2.0
+fortawesome/free-brands-svg-icons v6.2.0
+fortawesome/free-solid-svg-icons  v6.2.0
+fortawesome/react-fontawesome     v0.2.0
+
+![screencapture-localhost-3000-2022-09-07-17_31_54](https://user-images.githubusercontent.com/60442439/188995140-aaad3a46-de48-41f4-970a-fd3956b86ae9.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

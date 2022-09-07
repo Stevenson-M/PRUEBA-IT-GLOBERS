@@ -1,0 +1,47 @@
+.granContenedor{
+    margin-bottom: 20px;
+}
+
+#texto {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+ 
+  }
+
+  .text{
+    font-size: 15px;
+    font-weight: 700;
+    color: gray;
+    margin-bottom: -20px;
+  }
+
+  .text2 {
+
+    margin-top: 3%;
+ 
+  }
+
+  
+  #imgCol {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .contenedorDeImagenes {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+  }
+
+  .contenedorDeImagenes2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    
+  }
+

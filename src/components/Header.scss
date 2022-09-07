@@ -1,0 +1,66 @@
+.btn {
+    text-align: center;
+    margin-top: 150px;
+  
+    button {
+      font-size: 15px;
+      padding: 20px;
+      width: 160px;
+      height: 80px;
+      border: 3px solid white;
+      background-color: transparent;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      box-shadow: 0 0 5px 0 rgba(0, 0, 0, .5);
+    }
+  }
+  
+  .btns {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin: 30px;
+  }
+
+  
+  .icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin: 30px;
+    color: azure;
+    cursor: pointer;
+  }
+
+  .icons:hover {
+    color: black;
+    cursor: pointer;
+  }
+  
+  .iconx {
+    margin: 20px;
+    font-size: 30px;
+  }
+  
+  .fondo {
+    background-image: url("https://www.livedeco.com/10139-large_default/puf-de-piscina-gigante-pool-rosa-big52.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+  }
+  
+  .titulo {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: rgba(0, 0, 0, 0.300) 2px 2px 2px;
+  }
+
+    

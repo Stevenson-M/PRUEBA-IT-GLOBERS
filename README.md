@@ -1,5 +1,7 @@
 # PRUEBA-IT-GLOBERS
 
+Para la realizacion de esta prueba se utilizo: 
+
 React
 v18.2.0
 
